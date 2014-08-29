@@ -29,7 +29,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "17B57AB613D901CE0096B889"
-               BuildableName = "iOS_Calc_ApplicationTests.octest"
+               BuildableName = "iOS_Calc_ApplicationTests.xctest"
                BlueprintName = "iOS_Calc_ApplicationTests"
                ReferencedContainer = "container:iOS_Calc.xcodeproj">
             </BuildableReference>
@@ -47,7 +47,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "17B57AB613D901CE0096B889"
-               BuildableName = "iOS_Calc_ApplicationTests.octest"
+               BuildableName = "iOS_Calc_ApplicationTests.xctest"
                BlueprintName = "iOS_Calc_ApplicationTests"
                ReferencedContainer = "container:iOS_Calc.xcodeproj">
             </BuildableReference>
