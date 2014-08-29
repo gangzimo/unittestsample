@@ -1,0 +1,80 @@
+[
+ {
+  "file": "/Users/zhangjin/Developer/Xcode_WorkSpace/UnitTests/Shared/CalculatorLogicTests.m",
+  "offset": 2516,
+  "remove": 31,
+  "text": "<XCTest/XCTest.h>",
+ },
+ {
+  "file": "/Users/zhangjin/Developer/Xcode_WorkSpace/UnitTests/Shared/CalculatorLogicTests.m",
+  "offset": 2608,
+  "remove": 11,
+  "text": "XCTestCase",
+ },
+ {
+  "file": "/Users/zhangjin/Developer/Xcode_WorkSpace/UnitTests/Shared/CalculatorLogicTests.m",
+  "offset": 2920,
+  "remove": 14,
+  "text": "XCTAssertNotNil",
+ },
+ {
+  "file": "/Users/zhangjin/Developer/Xcode_WorkSpace/UnitTests/Shared/CalculatorLogicTests.m",
+  "offset": 3608,
+  "remove": 12,
+  "text": "XCTAssertTrue",
+ },
+ {
+  "file": "/Users/zhangjin/Developer/Xcode_WorkSpace/UnitTests/Shared/CalculatorLogicTests.m",
+  "offset": 4201,
+  "remove": 12,
+  "text": "XCTAssertTrue",
+ },
+ {
+  "file": "/Users/zhangjin/Developer/Xcode_WorkSpace/UnitTests/Shared/CalculatorLogicTests.m",
+  "offset": 4732,
+  "remove": 12,
+  "text": "XCTAssertTrue",
+ },
+ {
+  "file": "/Users/zhangjin/Developer/Xcode_WorkSpace/UnitTests/Shared/CalculatorLogicTests.m",
+  "offset": 5246,
+  "remove": 12,
+  "text": "XCTAssertTrue",
+ },
+ {
+  "file": "/Users/zhangjin/Developer/Xcode_WorkSpace/UnitTests/Shared/CalculatorLogicTests.m",
+  "offset": 5833,
+  "remove": 12,
+  "text": "XCTAssertTrue",
+ },
+ {
+  "file": "/Users/zhangjin/Developer/Xcode_WorkSpace/UnitTests/Shared/CalculatorLogicTests.m",
+  "offset": 6272,
+  "remove": 12,
+  "text": "XCTAssertTrue",
+ },
+ {
+  "file": "/Users/zhangjin/Developer/Xcode_WorkSpace/UnitTests/Shared/CalculatorLogicTests.m",
+  "offset": 6713,
+  "remove": 12,
+  "text": "XCTAssertTrue",
+ },
+ {
+  "file": "/Users/zhangjin/Developer/Xcode_WorkSpace/UnitTests/Shared/CalculatorLogicTests.m",
+  "offset": 7113,
+  "remove": 14,
+  "text": "XCTAssertThrows",
+ },
+ {
+  "file": "/Users/zhangjin/Developer/Xcode_WorkSpace/UnitTests/Shared/CalculatorLogicTests.m",
+  "offset": 7199,
+  "remove": 14,
+  "text": "XCTAssertThrows",
+ },
+ {
+  "file": "/Users/zhangjin/Developer/Xcode_WorkSpace/UnitTests/Shared/CalculatorLogicTests.m",
+  "offset": 7278,
+  "remove": 14,
+  "text": "XCTAssertThrows",
+ },
+]

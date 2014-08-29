@@ -1,0 +1,98 @@
+[
+ {
+  "file": "/Users/zhangjin/Developer/Xcode_WorkSpace/UnitTests/iOS_Calc/iOS_Calc_ApplicationTests/iOS_CalcTests.m",
+  "offset": 2911,
+  "remove": 14,
+  "text": "XCTAssertNotNil",
+ },
+ {
+  "file": "/Users/zhangjin/Developer/Xcode_WorkSpace/UnitTests/iOS_Calc/iOS_Calc_ApplicationTests/iOS_CalcTests.m",
+  "offset": 3415,
+  "remove": 12,
+  "text": "XCTAssertTrue",
+ },
+ {
+  "file": "/Users/zhangjin/Developer/Xcode_WorkSpace/UnitTests/iOS_Calc/iOS_Calc_ApplicationTests/iOS_CalcTests.m",
+  "offset": 3724,
+  "remove": 12,
+  "text": "XCTAssertTrue",
+ },
+ {
+  "file": "/Users/zhangjin/Developer/Xcode_WorkSpace/UnitTests/iOS_Calc/iOS_Calc_ApplicationTests/iOS_CalcTests.m",
+  "offset": 4203,
+  "remove": 12,
+  "text": "XCTAssertTrue",
+ },
+ {
+  "file": "/Users/zhangjin/Developer/Xcode_WorkSpace/UnitTests/iOS_Calc/iOS_Calc_ApplicationTests/iOS_CalcTests.m",
+  "offset": 4728,
+  "remove": 12,
+  "text": "XCTAssertTrue",
+ },
+ {
+  "file": "/Users/zhangjin/Developer/Xcode_WorkSpace/UnitTests/iOS_Calc/iOS_Calc_ApplicationTests/iOS_CalcTests.m",
+  "offset": 5270,
+  "remove": 12,
+  "text": "XCTAssertTrue",
+ },
+ {
+  "file": "/Users/zhangjin/Developer/Xcode_WorkSpace/UnitTests/iOS_Calc/iOS_Calc_ApplicationTests/iOS_CalcTests.m",
+  "offset": 5892,
+  "remove": 12,
+  "text": "XCTAssertTrue",
+ },
+ {
+  "file": "/Users/zhangjin/Developer/Xcode_WorkSpace/UnitTests/iOS_Calc/iOS_Calc_ApplicationTests/iOS_CalcTests.m",
+  "offset": 6075,
+  "remove": 12,
+  "text": "XCTAssertTrue",
+ },
+ {
+  "file": "/Users/zhangjin/Developer/Xcode_WorkSpace/UnitTests/iOS_Calc/iOS_Calc_ApplicationTests/iOS_CalcTests.m",
+  "offset": 6264,
+  "remove": 12,
+  "text": "XCTAssertTrue",
+ },
+ {
+  "file": "/Users/zhangjin/Developer/Xcode_WorkSpace/UnitTests/iOS_Calc/iOS_Calc_ApplicationTests/iOS_CalcTests.m",
+  "offset": 6453,
+  "remove": 12,
+  "text": "XCTAssertTrue",
+ },
+ {
+  "file": "/Users/zhangjin/Developer/Xcode_WorkSpace/UnitTests/iOS_Calc/iOS_Calc_ApplicationTests/iOS_CalcTests.m",
+  "offset": 6642,
+  "remove": 12,
+  "text": "XCTAssertTrue",
+ },
+ {
+  "file": "/Users/zhangjin/Developer/Xcode_WorkSpace/UnitTests/iOS_Calc/iOS_Calc_ApplicationTests/iOS_CalcTests.m",
+  "offset": 7610,
+  "remove": 12,
+  "text": "XCTAssertTrue",
+ },
+ {
+  "file": "/Users/zhangjin/Developer/Xcode_WorkSpace/UnitTests/iOS_Calc/iOS_Calc_ApplicationTests/iOS_CalcTests.m",
+  "offset": 7847,
+  "remove": 12,
+  "text": "XCTAssertTrue",
+ },
+ {
+  "file": "/Users/zhangjin/Developer/Xcode_WorkSpace/UnitTests/iOS_Calc/iOS_Calc_ApplicationTests/iOS_CalcTests.m",
+  "offset": 8569,
+  "remove": 12,
+  "text": "XCTAssertTrue",
+ },
+ {
+  "file": "/Users/zhangjin/Developer/Xcode_WorkSpace/UnitTests/iOS_Calc/iOS_Calc_ApplicationTests/iOS_CalcTests.h",
+  "offset": 2526,
+  "remove": 31,
+  "text": "<XCTest/XCTest.h>",
+ },
+ {
+  "file": "/Users/zhangjin/Developer/Xcode_WorkSpace/UnitTests/iOS_Calc/iOS_Calc_ApplicationTests/iOS_CalcTests.h",
+  "offset": 2705,
+  "remove": 11,
+  "text": "XCTestCase",
+ },
+]

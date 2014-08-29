@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/zhangjin/Developer/Xcode_WorkSpace/UnitTests/iOS_Calc/iOS_Calc_ApplicationTests/iOS_CalcTests.m \
+  /Users/zhangjin/Developer/Xcode_WorkSpace/UnitTests/iOS_Calc/iOS_Calc_ApplicationTests/iOS_CalcTests.h \
+  /Applications/Xcode6-Beta6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingKit.h \
+  /Applications/Xcode6-Beta6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestDefines.h \
+  /Applications/Xcode6-Beta6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTest.h \
+  /Applications/Xcode6-Beta6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCase.h \
+  /Applications/Xcode6-Beta6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCase_Macros.h \
+  /Applications/Xcode6-Beta6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingUtilities.h \
+  /Applications/Xcode6-Beta6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/NSException_SenTestFailure.h \
+  /Applications/Xcode6-Beta6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestSuite.h \
+  /Applications/Xcode6-Beta6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestObserver.h \
+  /Applications/Xcode6-Beta6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestLog.h \
+  /Applications/Xcode6-Beta6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestDistributedNotifier.h \
+  /Applications/Xcode6-Beta6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestRun.h \
+  /Applications/Xcode6-Beta6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestSuiteRun.h \
+  /Applications/Xcode6-Beta6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCaseRun.h \
+  /Applications/Xcode6-Beta6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenInterfaceTestCase.h \
+  /Applications/Xcode6-Beta6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestProbe.h \
+  /Users/zhangjin/Developer/Xcode_WorkSpace/UnitTests/iOS_Calc/iOS_Calc/iOS_CalcAppDelegate.h \
+  /Users/zhangjin/Developer/Xcode_WorkSpace/UnitTests/iOS_Calc/iOS_Calc/iOS_CalcViewController.h \
+  /Users/zhangjin/Developer/Xcode_WorkSpace/UnitTests/Shared/Calculator.h

@@ -1,0 +1,26 @@
+-x
+objective-c
+-arch
+x86_64
+-fobjc-arc
+-fpascal-strings
+-O0
+-isysroot
+/Applications/Xcode6-Beta6.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk
+-fasm-blocks
+-mmacosx-version-min=10.7
+-g
+-fvisibility=hidden
+-iquote
+-iquote
+-I/Users/zhangjin/Developer/Xcode_WorkSpace/UnitTests/DerivedData/UnitTests/Build/Products/Debug/include
+-IMy
+-I64-bit
+-Isearch
+-Ipath
+-F/Users/zhangjin/Developer/Xcode_WorkSpace/UnitTests/DerivedData/UnitTests/Build/Products/Debug
+-F/Applications/Xcode6-Beta6.app/Contents/Developer/Library/Frameworks
+x86_64-apple-darwin14.0.0
+"4.2.1 Compatible Apple LLVM 6.0 (clang-600.0.47)"
+SDK_PRODUCT_BUILD_VERSION=14A329d
+14A329d
